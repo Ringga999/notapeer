@@ -112,7 +112,7 @@ NotaPeer does not fight incumbents — the **Anchor API** is designed to be
 ## 📚 Docs
 
 - [`docs/FLOWCHART.md`](docs/FLOWCHART.md) — merchant, partner, and verifier flows
-- Whitepaper — *coming soon*
+- [Whitepaper](docs/WHITEPAPER.md) — vision, architecture, business model
 - ZCP2O Protocol (identity layer): <https://github.com/Ringga999/zcp2o-protocol>
 
 ## ⚖️ License

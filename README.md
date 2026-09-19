@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" alt="NotaPeer — verifiable books for the unbanked" width="180" />
+</p>
+
 # NotaPeer
 
 **Verifiable books for businesses the banks never saw.**

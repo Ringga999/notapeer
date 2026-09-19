@@ -176,7 +176,7 @@ Cost per anchor: ~$0.01 on Base, ~$0.001 on Polygon.
 **Mechanism:** User holds a circle for 3 seconds while pointer micro-jitter
 is sampled. Perfectly still holds are rejected (bots do not tremble; humans do).
 
-**Session-scoped:** One hold opens a proof budget (e.g., 10 spins/anchors).
+**Session-scoped:** One hold opens a proof budget (e.g., 10 anchors).
 Cadence is a policy parameter, not a hard rule. This balances security and UX.
 
 **Offline-capable:** Witness attestation is signed locally and cached; syncs
@@ -259,7 +259,7 @@ lenders (lower NPL), and cooperatives (better underwriting).
 ## 5. Roadmap
 
 ### Phase 0 — Doctrine (September 2026) ✅
-- [x] README + Flowcharts + Whitepaper
+- [x] README + Flowcharts + Glossary + Whitepaper
 - [x] GitHub repo public
 - [x] Jitter Jackpot hackathon entry (proof of execution capability)
 

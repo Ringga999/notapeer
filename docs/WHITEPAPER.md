@@ -345,4 +345,95 @@ fintech veterans)
 
 ---
 
+## 9. Foundation Economics & Ethics
+
+NotaPeer is not just a product — it is the **first heartbeat** of the ZCP2O
+ecosystem. Every merchant who witnesses, every anchor that lands on-chain,
+every credit score that unlocks capital: these are not isolated events. They
+are contributions to a living protocol, and that contribution deserves a
+structure that is **transparent, ethical, and self-sustaining**.
+
+### 9.1 The Foundation Wallet Split
+
+When the ZCP2O protocol rewards NotaPeer (or any future implementation) with
+$ZPRO tokens, the Foundation wallet splits rewards into three streams:
+
+```
+┌─────────────────────────────────────────────────────────┐
+│  FOUNDATION WALLET (receiver of protocol rewards)       │
+├─────────────────────────────────────────────────────────┤
+│  30% → DONATION WALLET (public, auditable, separate)    │
+│        Quarterly reports published on-chain.             │
+│        Recipients: open-source projects, financial       │
+│        inclusion initiatives, emerging market devs.      │
+├─────────────────────────────────────────────────────────┤
+│  50% → OPS & RUNWAY (infrastructure, legal, pilot)      │
+│        Funds servers, audit costs, merchant support,     │
+│        travel for pilot interviews.                      │
+├─────────────────────────────────────────────────────────┤
+│  20% → ECOSYSTEM INCENTIVES (validators, contributors)  │
+│        Rewards for those who strengthen ZCP2O directly.  │
+└─────────────────────────────────────────────────────────┘
+```
+
+**Transparency commitments:**
+- Donation wallet address published in README from Day 1 (even if empty).
+- Quarterly on-chain reports: every transfer visible to anyone.
+- No promises of numbers we don't yet hold — 30% of *what exists*, not 30% of dreams.
+
+### 9.2 NotaPeer: The Flagship Implementation
+
+ZCP2O without applications is a highway without cars. NotaPeer is the first
+vehicle that proves the road works. Every milestone in NotaPeer is a milestone
+for ZCP2O:
+
+- **Merchant onboarding** = new ZCP2O nodes generating attestations
+- **Monthly anchors** = real data strengthening ZCP2O's Merkle tree
+- **Credit scores** = proof that ZCP2O identity has economic value
+
+All release notes, grant applications, and public communications will **name
+both repositories**: NotaPeer as the use case, ZCP2O as the protocol. They
+rise together.
+
+### 9.3 Ecosystem Revival: Five Pulses
+
+The ZCP2O protocol repo has been quiet. Quiet repos are red flags to grant
+committees. Revival does not come from speeches — it comes from **pulse**:
+
+1. **Pinned Banner:** NotaPeer listed as "Flagship Implementation" at the top
+   of `zcp2o-protocol/README.md`. Empty cities need signs.
+
+2. **Monthly Commit Floor:** Minimum 1 meaningful commit per month to the
+   protocol repo (spec improvements, release tags, docs). Dead = no pulse;
+   we give artificial pulse until organic pulse arrives.
+
+3. **Season 0 Hook:** The protocol's "First 100 Sovereign Identities" program
+   gets its first real humans: NotaPeer merchants as Genesis Pioneers. Real
+   warung owners, not airdrop-hunting bots. One action, two repos alive.
+
+4. **Monthly Ecosystem Pulse:** One public post summarizing both repos —
+   NotaPeer build log + protocol notes. One pulse, two heartbeats.
+
+5. **Open Doors:** 3–5 issues labeled "good first issue" in the protocol repo.
+   Even if no one arrives yet, an open door is an invitation.
+
+**Time allocation (until NotaPeer reaches 100 active merchants):**
+- 80% NotaPeer (build, pilot, outreach)
+- 20% ZCP2O (maintain pulse, fix blocking bugs)
+
+Review and adjust when NotaPeer proves sustainable traction.
+
+### 9.4 Why This Matters
+
+Investors and grant committees do not fund protocols in isolation. They fund
+**proof that protocols solve real problems for real people**. NotaPeer is that
+proof. The donation structure is that ethics. The ecosystem pulse is that
+commitment.
+
+We are not building a product. We are building a **living ecosystem** — and
+ecosystems only survive when every node knows its contribution matters, and
+every contribution is visible.
+
+---
+
 *Built in public. Solo founder. Rp 0 capital. Verifiable books for the unbanked.*

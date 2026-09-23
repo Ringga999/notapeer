@@ -116,6 +116,23 @@ NotaPeer does not fight incumbents — the **Anchor API** is designed to be
 - [Whitepaper](docs/WHITEPAPER.md) — vision, architecture, business model
 - ZCP2O Protocol (identity layer): <https://github.com/Ringga999/zcp2o-protocol>
 
+## ⚓ Genesis Anchor
+
+On **23 September 2026**, the first NotaPeer books were anchored on-chain.
+Two warung transactions — a coffee sale and a rice purchase — were folded
+into a Merkle root and notarized on the Sepolia testnet.
+
+| Artifact | Value |
+|---|---|
+| Network | Sepolia (testnet) |
+| Contract | [`0xd98b…F64Bb`](https://sepolia.etherscan.io/address/0xd98bC541D2eb837b40e291fa8cff45e35E5F64Bb) |
+| Anchor tx | [`0x6f6a…0d38`](https://sepolia.etherscan.io/tx/0x6f6a9e9bdb8d90eb5a3dff0a10c5b106e66e0e7708e25f82175913ef8d0f0d38) |
+| Merkle root | `0x17006746c2899f1d6fcac1bca2563058a410bd24541972a806834bdde1f5b58a` |
+| Anchored by | `0x6C2C…2ED6d` |
+
+*From a warung notebook to an immutable ledger — verifiable by anyone,
+forgeable by no one.*
+
 ## ⚖️ License
 
 MIT — see [LICENSE](LICENSE).

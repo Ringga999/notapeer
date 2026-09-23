@@ -47,7 +47,7 @@ Fitur yang dibangun di gelombang ini menjadi rumah bagi semua gelombang berikutn
 | **Footer Sosmed** | Tautan X/GitHub/Email + logo kecil | Hukum 5 (transparansi) |
 
 **Kriteria Selesai:** Screenshot aplikasi dapat masuk pitch deck tanpa perlu penjelasan "ini masih MVP".
-
+**Status Gelombang 1: ✅ SELESAI (23 September 2026)** — kerangka, i18n, ikon, grafik, profil, dan footer sosial telah berdiri di `notapeer-app`.
 ---
 
 ### 🌊 GELOMBANG 2 — Operasional Warung

@@ -115,6 +115,7 @@ NotaPeer does not fight incumbents — the **Anchor API** is designed to be
 - [`docs/GLOSSARY.md`](docs/GLOSSARY.md) — plain-language dictionary (Merkle, ERC-4337, Witness…)
 - [Whitepaper](docs/WHITEPAPER.md) — vision, architecture, business model
 - [Roadmap](docs/ROADMAP.md) — peta pengembangan 5 gelombang + 6 hukum NotaPeer
+- [Identity](docs/IDENTITY.md) — sovereign identity: root, faces, recovery, attestation
 - ZCP2O Protocol (identity layer): <https://github.com/Ringga999/zcp2o-protocol>
 
 ## ⚓ Genesis Anchor

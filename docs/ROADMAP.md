@@ -58,11 +58,25 @@ Fitur yang dibangun di gelombang ini menjadi rumah bagi semua gelombang berikutn
 | **Menu Kasir** | Input penjualan sekali-tap (kategori & nominal cepat) | Hukum 2 (offline-first) |
 | **Absensi Pekerja** | Check-in via HOLD Witness — proof-of-presence | Hukum 4 (setiap check-in = attestation baru) |
 
-**Kriteria Selesai:** Seorang pemilik warung dapat menjalankan seluruh operasional harian tanpa spreadsheet/buku tulis.
+
+**Status: ✅ SELESAI (26 September 2026)** — Mode Kasir shift-based, shift log (F6), halaman Absensi (G2), dan kanonisasi kategori (F5) berdiri.
 
 **Catatan Strategis:** Fitur absensi adalah kemenangan doktrin tersembunyi — ia mengubah "HR feature" menjadi "identity network feature". Investor akan menyukai bahwa fitur operasional ternyata memperkuat jaringan ZCP2O.
 
 ---
+
+### 🌊 GELOMBANG IDENTITAS (2.5) — Sovereign Identity
+**Filosofi:** *Buku tanpa pemilik adalah daun tanpa pohon.*
+
+| Fitur | Tujuan | Doktrin |
+|---|---|---|
+| Root + faces | Identitas persisten, unlinkable antar-konteks | Hukum 3 |
+| Register + captcha | Kemanusiaan sebagai pintu masuk | Hukum 1 |
+| PIN + trust token | Login tanpa email/phone/KYC | Hukum 1 |
+| Attestation queue | Offline-first menuju WitnessRegistry | Hukum 2 |
+| WitnessRegistry.sol | Validator on-chain wajah pseudonim | Hukum 4 |
+
+**Kriteria Selesai:** zid yang sama selamat dari reload, restart, dan ganti hari; badge ⏳/✅ jujur terhadap chain.
 
 ### 🌊 GELOMBANG 3 — Kepercayaan & Edukasi
 **Filosofi:** *Mengubah pengguna menjadi percaya, dan percaya menjadi setia.*

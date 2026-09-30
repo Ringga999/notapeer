@@ -78,6 +78,8 @@ Fitur yang dibangun di gelombang ini menjadi rumah bagi semua gelombang berikutn
 
 **Kriteria Selesai:** zid yang sama selamat dari reload, restart, dan ganti hari; badge ⏳/✅ jujur terhadap chain.
 
+**Status: ✅ SELESAI (30 September 2026)** — WitnessRegistry v1 hidup di Sepolia `0x9101510F79293BB2F34773589c6cF804c764b446` · blok 11814611 · tx 0xdb051c9f51a… · Genesis Witness: wajah merchant pertama ter-attest on-chain; badge ⏳→✅ terbukti jujur.
+
 ### 🌊 GELOMBANG 3 — Kepercayaan & Edukasi
 **Filosofi:** *Mengubah pengguna menjadi percaya, dan percaya menjadi setia.*
 

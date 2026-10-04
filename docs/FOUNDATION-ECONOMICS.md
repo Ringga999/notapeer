@@ -74,15 +74,17 @@ melainkan **tanda kehormatan** atas peran Anda dalam ekosistem.
 
 | Tier | Nama | Threshold | Makna |
 |---|---|---|---|
-| 🌱 | Penjaga Warung | 0–99 validasi | Baru memulai |
-| 🌿 | Penjaga Kawasan | 100–999 | Kontributor aktif |
-| 🌳 | Penjaga Nusantara | 1.000–9.999 | Pilar ekosistem |
-| 🌲 | Penjaga Semesta | 10.000+ | Veteran protokol |
+| 🥉 | Bronze | 0–99 validasi | Baru memulai |
+| 🥈 | Silver | 100–999 | Kontributor aktif |
+| 🥇 | Gold | 1.000–9.999 | Pilar ekosistem |
+| 💎 | Diamond | 10.000+ | Veteran protokol |
 
 ### Di mana rank terlihat?
-- **Halaman Profil** di NotaPeer — badge rank + jumlah total validasi
+- **Halaman Profil** di NotaPeer — badge rank (🥉🥈🥇💎) + jumlah total validasi
 - **Halaman Riwayat Anchor** — kontribusi Anda terhadap integritas buku
 - **ZCP2O Wallet** (ketika siap) — rank lintas aplikasi, bukan hanya NotaPeer
+- Estetika: **medali perunggu, perak, emas, dan berlian** — bahasa visual
+  yang dikenal di seluruh dunia dari sistem loyalitas hingga turnamen olahraga.
 
 ### Apa yang didapat selain kehormatan?
 - **Tidak ada uang, tidak ada diskon, tidak ada token.**

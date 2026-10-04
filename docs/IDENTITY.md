@@ -25,7 +25,7 @@ ROOT SECRET S (128-bit · born at register · NEVER leaves the device)
   or chain — it lives encrypted (AES-GCM, PIN-derived key) in the device.
 - **Faces are unlinkable to each other** without the root: an auditor seeing a
   merchant face cannot find the worker face of the same human.
-- **Recovery = 12 words.** The root is encoded as a BIP-39-style phrase, shown
+- **Recovery = 12 words.** The root is encoded as a NRP-12 (256 kata tetap) phrase, shown
   once at register, written on paper by the merchant. Lose the device + lose
   the words = lose the identity. That is the price of sovereignty; we say it
   out loud.
